@@ -1,0 +1,47 @@
+name: driveboy_app
+description: Driveboy - Your emotional co-driver companion app
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  http: ^1.1.0 
+  
+  # BLE Communication
+  flutter_blue_plus: ^1.31.0
+  
+  # Permissions
+  permission_handler: ^11.0.0
+  
+  # Location & Maps (for future GPS features)
+  geolocator: ^10.1.0
+  # google_maps_flutter: ^2.5.0  # Uncomment when adding real maps
+  
+  # Local Storage
+  shared_preferences: ^2.2.0
+  
+  # UI/UX
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Uncomment to add custom fonts
+  # fonts:
+  #   - family: SF Pro Display
+  #     fonts:
+  #       - asset: fonts/SF-Pro-Display-Regular.otf
+  #       - asset: fonts/SF-Pro-Display-Bold.otf
+  #         weight: 700
