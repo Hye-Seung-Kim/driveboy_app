@@ -140,16 +140,13 @@ Showing:
 
 ### New Prototype ✨
 
-![New Prototype](docs/happy.jpeg)
-
-*Improved design with larger screen, softer appearance, and refined emotional expressions.*
-
 ## 🎥 Prototype Demo
 
-<video width="300" controls>
-  <source src="docs/demo.mp4" type="video/mp4">
-</video>
+Click below to watch the latest prototype demo:
 
+[![Watch Prototype Demo](docs/happy.jpeg)](docs/demo.mp4)
+
+> The video shows emotion transitions, BLE communication with the app, and how DriveBoy responds to different states.
 ---
 
 ## 📦 Repository Structure
