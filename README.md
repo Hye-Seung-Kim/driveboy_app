@@ -28,8 +28,6 @@ DriveBoy is a **hardware companion device + mobile app** that expresses emotions
 
 It uses **simple expressive faces + supportive behaviors** instead of alerts or stress-inducing notifications.
 
-![DriveBoy Device](images/driveboy-device.png)
-
 ---
 
 ## 💬 Emotional Expressions
