@@ -144,6 +144,12 @@ Showing:
 
 *Improved design with larger screen, softer appearance, and refined emotional expressions.*
 
+## 🎥 Prototype Demo
+
+<video width="300" controls>
+  <source src="docs/demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 ## 📦 Repository Structure
@@ -224,40 +230,6 @@ Includes:
 - User testing results
 - Exhibition documentation
 
----
-
-## 🙏 Acknowledgments
-
-- **Truck drivers** who participated in research interviews
-- **School of Visual Arts** MFA Interaction Design program
-- **Physical Computing course** instructors and peers
-
----
-
-## 📬 Contact
-
-**Hyeseung (Seren) Kim**  
-MFA Interaction Design — School of Visual Arts
-
-- 🔗 Portfolio: [coming soon]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 📧 Email: [your.email@sva.edu]
-
----
-
 <p align="center">
   Built with ❤️ for the drivers who keep the world moving.
 </p>
-
----
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) for details
-
----
-
-## 🎨 Assets Credit
-
-All design, research, and development by Hyeseung Kim (Seren Kim).  
-Project created as part of SVA MFA Interaction Design coursework.
